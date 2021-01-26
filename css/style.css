@@ -33,17 +33,17 @@ div {
 }
 
 #red {
-    background-color: #b40505;
+    background-color: #ff0000;
     text-align: right;
 }
 
 #blue {
-    background-color: #212194;
+    background-color: #0000ff;
     text-align: left;
 }
 
 #yellow {
-    background-color: #dcdc19;
+    background-color: #ffff00;
     color: #000000;
     text-align: right;
 }
@@ -54,7 +54,7 @@ div {
 
 
 #green {
-    background-color: #007600;
+    background-color: #008000;
     text-align: left;
 }
 
